@@ -1,0 +1,23 @@
+/*Import fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@400;700&family=Overpass:wght@400;700&display=swap');
+
+/*Import components*/
+@import url(components/banner.css);
+@import url(components/button.css);
+@import url(components/cards.css);
+@import url(components/container.css);
+@import url(components/footer.css);
+
+/* General rules */
+body {
+  font-size: 18px;
+  color: rgb(30,30,30);
+  font-family: "Overpass", sans-serif;
+  margin:0;
+}
+
+h1, h2 {
+  font-family: "Chiva", sans-serif;
+}
+
+

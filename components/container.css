@@ -1,0 +1,22 @@
+@media (min-width: 500px) {
+  .container {
+    width: 500px;
+  }
+}
+
+@media (min-width: 800px) {
+  .container {
+    width: 600px;
+  }
+}
+
+@media (min-width: 1000px) {
+  .container {
+    width: 800px;
+  }
+}
+
+.container {
+  margin: 60px auto;
+}
+
